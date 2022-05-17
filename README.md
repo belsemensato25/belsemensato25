@@ -1,4 +1,4 @@
-- ola eu sou a@belsemensato25
-- meu email de contato é isabel.semensato@escola.pr.gov.br
+- ola eu sou **@belsemensato25**
+- meu email de contato é [email](isabel.semensato@escola.pr.gov.br)
 - 🌱 eu estou interessada em aprende a programar novas linguagens
 - 💞️ eu estou aprendendo a progarmar recentemente a linguagem de scratch
